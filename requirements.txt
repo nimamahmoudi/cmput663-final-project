@@ -2,5 +2,9 @@ pandas
 numpy
 matplotlib
 jupyter
+
+networkx
+pydot
+
 python-louvain
 requirements-detector
