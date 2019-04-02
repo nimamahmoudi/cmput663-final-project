@@ -116,3 +116,5 @@ dmypy.json
 data/*.csv
 .vscode
 .idea
+
+sync_data.sh
